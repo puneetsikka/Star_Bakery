@@ -1,0 +1,45 @@
+/* Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    border-bottom: solid 1px black;
+    box-shadow: 6px -2px 14px 0px;
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+    width: 50rem;
+  }
+  .navbar-left > form {
+    width: 100%;
+  }
+  .search-input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 100%;
+    background-color: #dfdfdf;
+  }
+  
+  .search-button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+    color: #4A4A4A;
+  }
+  
+  .home-button {
+    color: #4A4A4A;
+  }
