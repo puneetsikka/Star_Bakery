@@ -8,4 +8,4 @@ Fire up the sever just run on terminal node --harmony  server.js
 
 Then npm start for running the application
 
-Also Attached a working video for the pltaform
+Also Attached a working video for the pltaform download the video and have look at it
